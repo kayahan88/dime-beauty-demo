@@ -12,7 +12,6 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone https://github.com/kayahan88/dime-beauty-demo.git` this repository
-* `npm i react-scripts`
 
 ## Running
 
@@ -21,9 +20,9 @@ Start a local server:
 ```
 npm start
 ```
-
+* I used iPhone 12 Pro as the dimensions for this clone.
 * Visit your app at [http://localhost:3000](http://localhost:3000).
 
 ## My Clone
 
-<img src="https://i.postimg.cc/2jvbm4N5/Screen-Shot-2022-11-03-at-4-38-53-AM.png" width="700" />
+<img src="https://i.postimg.cc/2jvbm4N5/Screen-Shot-2022-11-03-at-4-38-53-AM.png" width="600" />
